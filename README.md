@@ -1,2 +1,2 @@
 # Lazy_Regresser_Implementation
-Linear Regression, SVR, Random Forest
+Linear Regression, SVR, Random Forest.
