@@ -12,3 +12,4 @@ Lazy Regresser by using Linear Regression, SVR, Random Forest.
  
   
  
+ 
