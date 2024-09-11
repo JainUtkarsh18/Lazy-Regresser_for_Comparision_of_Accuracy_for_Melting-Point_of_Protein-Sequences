@@ -1,5 +1,18 @@
 # Lazy-Regresser_for_Comparision_of_Accuracy_of_Melting-Point_of_Protein-Sequences
 
+## Table of Contents
+- [Overview](#Overview)
+- [Features](#Features)
+- [Project Structure](#ProjectStructure)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Data Preparation](#DataPreparation)
+- [Model Training](#ModelTraining)
+- [Customization](#Customization)
+- [Results](#Results)
+- [Contributions](#Contributions)
+- [License](#License)
+
 ## Overview
 The **Lazy-Regresser** project is designed to compare the accuracy of different regression models in predicting the melting point of protein sequences based on their molecular weight and amino acid composition features. The goal is to identify the best-performing models for this specific task, leveraging various machine learning techniques with a focus on ease of use and minimal manual tuning (hence the "lazy" approach).
 
