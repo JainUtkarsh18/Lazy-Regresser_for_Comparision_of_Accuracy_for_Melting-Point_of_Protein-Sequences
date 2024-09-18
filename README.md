@@ -15,7 +15,7 @@
  
 ## Overview
 The **Lazy-Regresser** project is designed to compare the accuracy of different regression models in predicting the melting point of protein sequences based on their molecular weight and amino acid composition features. The goal is to identify the best-performing models for this specific task, leveraging various machine learning techniques with a focus on ease of use and minimal manual tuning (hence the "lazy" approach).
-Used SVR, Random Forest and Linear Regression techniques of the module of Lazy Regression.
+Used SVR, Random Forest and Linear Regression techniques of the module of Lazy Regression. Can be used other libraries by just calling them.
 
 ## Features
 - **Multiple Regression Models**: Includes a variety of regression algorithms like Linear Regression, Random Forest, XGBoost, and Neural Networks.
