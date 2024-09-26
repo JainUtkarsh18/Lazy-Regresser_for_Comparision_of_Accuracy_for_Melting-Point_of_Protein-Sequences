@@ -10,7 +10,7 @@
 - [Model Training](#ModelTraining)
 - [Customization](#Customization) 
 - [Results](#Results)
-- [Contributions](#Contributions)
+- [Contributions](#Contributions) 
 - [License](#License)  
  
 ## Overview  
