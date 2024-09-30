@@ -7,7 +7,7 @@
 - [Installation](#Installation)  
 - [Usage](#Usage)
 - [Data Preparation](#DataPreparation) 
-- [Model Training](#ModelTraining)
+- [Model Training](#ModelTraining) 
 - [Customization](#Customization) 
 - [Results](#Results)
 - [Contributions](#Contributions) 
