@@ -3,7 +3,7 @@
 ## Table of Contents  
 - [Overview](#Overview)   
 - [Features](#Features) 
-- [Project Structure](#ProjectStructure)
+- [Project Structure](#ProjectStructure) 
 - [Installation](#Installation)  
 - [Usage](#Usage)
 - [Data Preparation](#DataPreparation) 
