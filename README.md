@@ -1,7 +1,7 @@
 # Lazy-Regresser_for_Comparision_of_Accuracy_of_Melting-Point_of_Protein-Sequences
 
 ## Table of Contents  
-- [Overview](#Overview)   
+- [Overview](#Overview)    
 - [Features](#Features) 
 - [Project Structure](#ProjectStructure) 
 - [Installation](#Installation)  
